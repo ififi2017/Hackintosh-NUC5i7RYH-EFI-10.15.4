@@ -2,4 +2,6 @@
 
 CPU: i7-5557U
 
-Graphics: Intel Iris Graphics 6100
+Processor Graphics: Intel Iris Graphics 6100
+
+Integrated LAN: Intel® Ethernet Connection I218-V
