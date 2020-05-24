@@ -1,6 +1,6 @@
 # Hackintosh-NUC5i7RYH-EFI-10.15.4
 
-This EFI Use OpenCore 0.7.8
+This EFI Use OpenCore 0.5.8
 
 CPU: i7-5557U
 
